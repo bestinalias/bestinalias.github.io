@@ -13,7 +13,7 @@ Electronics and Communication Engineering final-year student with a focus on Rob
 ## Projects
 
 ### Adaptive vehicle speed controller
-  <br>**Objective**		: The system detects restricted zones via RF signals and automatically adjusts vehicle speed using a microcontroller. It                                              provides manual control in non-restricted areas through push buttons and offers real-time driver feedback via an LCD and audio alerts.
+  **Objective**		: The system detects restricted zones via RF signals and automatically adjusts vehicle speed using a microcontroller. It                                              provides manual control in non-restricted areas through push buttons and offers real-time driver feedback via an LCD and audio alerts.
   <br>**Technology Used**	: Arduino Nano, RF modules, I2C, SPI, KiCad 9.0
   <br>**Link** 	: [github.com/bestinalias/Adaptive-vehicle-speed-controller](https://github.com/bestinalias/Adaptive-vehicle-speed-controller) 
 
