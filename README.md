@@ -15,7 +15,7 @@ Electronics and Communication Engineering final-year student with a focus on Rob
 ### Adaptive vehicle speed controller | April 2025
   <br>**Objective**		: The system detects restricted zones via RF signals and automatically adjusts vehicle speed using a microcontroller. It                                              provides manual control in non-restricted areas through push buttons and offers real-time driver feedback via an LCD and audio alerts.
   <br>**Technology Used**	: Arduino Nano, RF modules, I2C, SPI, KiCad 9.0
-  <br>**Link** 	: github.com/bestinalias/Adaptive-vehicle-speed-controller
+  <br>**Link** 	: [github.com/bestinalias/Adaptive-vehicle-speed-controller](https://github.com/bestinalias/Adaptive-vehicle-speed-controller) 
 
 ## 📜 Certifications
 
@@ -29,3 +29,8 @@ Electronics and Communication Engineering final-year student with a focus on Rob
 **Tools:** Arduino IDE, KiCad, Proteus, Keil uVision5 
 **Hardware:** ESP32, Arduino, Sensors
 
+## 📫 Contact
+
+- 📧 Email:  
+- 💼 GitHub: [github.com/bestinalias](https://github.com/bestinalias)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/bestinalias)
