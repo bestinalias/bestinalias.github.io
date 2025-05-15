@@ -12,22 +12,22 @@ Electronics and Communication Engineering final-year student with a focus on Rob
 
 ## Projects
 
-### Adaptive vehicle speed controller | April 2025
+### Adaptive vehicle speed controller
   <br>**Objective**		: The system detects restricted zones via RF signals and automatically adjusts vehicle speed using a microcontroller. It                                              provides manual control in non-restricted areas through push buttons and offers real-time driver feedback via an LCD and audio alerts.
   <br>**Technology Used**	: Arduino Nano, RF modules, I2C, SPI, KiCad 9.0
   <br>**Link** 	: [github.com/bestinalias/Adaptive-vehicle-speed-controller](https://github.com/bestinalias/Adaptive-vehicle-speed-controller) 
 
 ## 📜 Certifications
 
--	**Digital Systems: From Logic Gates to Processors** – Coursera, | January 2025
--	**Advanced Robotics Applications** – NPTEL | April 2025
--	**Fundamentals of Artificial Intelligence** – NPTEL | October 2024
+-	**Digital Systems: From Logic Gates to Processors** – Coursera
+-	**Advanced Robotics Applications** – NPTEL
+-	**Fundamentals of Artificial Intelligence** – NPTEL
 
 ## 🛠 Skills
 
-**Languages:** C, Python, Verilog, MATLAB 
-**Tools:** Arduino IDE, KiCad, Proteus, Keil uVision5 
-**Hardware:** ESP32, Arduino, Sensors
+- **Languages:** C, Python, Verilog, MATLAB 
+- **Tools:** Arduino IDE, KiCad, Proteus, Keil uVision5 
+- **Hardware:** ESP32, Arduino, Sensors
 
 ## 📫 Contact
 
