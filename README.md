@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bestin Alias
+# Hi, I'm Bestin Alias
 
 Electronics and Communication Engineering final-year student with a focus on Robotics & Automation and Embedded systems. Developed an adaptive vehicle speed controller using Arduino. Strong problem-solving skills and a collaborative team player.
 
@@ -33,4 +33,4 @@ Electronics and Communication Engineering final-year student with a focus on Rob
 
 - 📧 Email:  
 - 💼 GitHub: [github.com/bestinalias](https://github.com/bestinalias)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/bestinalias)
+- 🔗 LinkedIn: [linkedin.com/in/bestinalias](www.linkedin.com/in/bestinalias)
