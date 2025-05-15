@@ -27,7 +27,7 @@ Electronics and Communication Engineering final-year student with a focus on Rob
 
 - **Languages:** C, Python, Verilog, MATLAB 
 - **Tools:** Arduino IDE, KiCad, Proteus, Keil uVision5 
-- **Hardware:** ESP32, Arduino, Sensors
+- **Hardware:** ESP32, Arduino, Sensors.
 
 ## 📫 Contact
 
