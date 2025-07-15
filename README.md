@@ -4,7 +4,7 @@ Electronics and Communication Engineering final-year student with a focus on Rob
 
 ## Academic Qualifications
 - Bachelor of Technology – Electronics & Communication, Rajagiri School of Engineering & Technology (Autonomous), Kochi
-  <br>CGPA 8.5 out of 10 | July, 2026 
+  <br>CGPA 8.38 out of 10 | July, 2026 
 - Senior Secondary (Class 12) - CBSE, Kochi
   <br>Percentage 84.5% | March, 2022
 - Secondary Education (Class 10) - CBSE, Kochi
@@ -17,11 +17,16 @@ Electronics and Communication Engineering final-year student with a focus on Rob
   <br>**Technology Used**	: Arduino Nano, RF modules, I2C, SPI, KiCad 9.0
   <br>**Link** 	: [github.com/bestinalias/Adaptive-vehicle-speed-controller](https://github.com/bestinalias/Adaptive-vehicle-speed-controller) 
 
+### 2) STRIDE Makeathon
+  **Objective**		: Developed a prototype of a simple, low-cost communication tool for non-verbal children with moderate physical & comprehension challenges. The device is portable and uses RF ID tags that are scanned to output audio through a speaker to convey the user's needs.
+  <br>**Technology Used**	: Arduino Nano, UART, SPI, KiCad 9.0
+
 ## 📜 Certifications
 
 -	Digital Systems: From Logic Gates to Processors – Coursera
 -	Advanced Robotics Applications – NPTEL
 -	Fundamentals of Artificial Intelligence – NPTEL
+-	Wireless 4G-5G enabling technologies - Infosys Springboard
 
 ## 🛠 Skills
 
