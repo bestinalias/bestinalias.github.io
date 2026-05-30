@@ -43,6 +43,6 @@ on terrain, user and candidate locations data.
 
 ## 📫 Contact
 
-- 📧 Email:  
+- 📧 Email:  [bestinalias@gmail.com](mailto:bestinalias@gmail.com)
 - 💼 GitHub: [github.com/bestinalias](https://github.com/bestinalias)  
 - 🔗 LinkedIn: [linkedin.com/in/bestinalias](www.linkedin.com/in/bestinalias)
